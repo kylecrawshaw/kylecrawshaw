@@ -7,6 +7,13 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=kylecrawshaw&style=flat-square&color=blue" alt=""/>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kylecrawshaw&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylecrawshaw)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **kylecrawshaw/kylecrawshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
