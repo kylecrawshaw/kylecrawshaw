@@ -12,6 +12,14 @@
 # About:
 Currently working at the Federal Reserve Bank of Boston on Project Hamilton. My work is focused on researching the infrastructure required to run a multi-region distributed CBDC.
 
+## Currently Learning
+- Go: learning to build Kubernetes Operators in Go
+- Rust: fascinated by development efficiencies and guardrails provided the Rust compiler
+
+## Languages:
+- Python: highest level of proficiency and have built multiple critical path applications using FastAPI, Typer, Flask, and Django.
+- Swift: built a MacOS desktop application to manage Imagr manifests.
+
 # :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kylecrawshaw&theme=dark&background=000000)](https://git.io/streak-stats)
 
