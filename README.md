@@ -16,9 +16,13 @@ Currently working as the DevOps Lead at the Federal Reserve Bank of Boston on Pr
 - Go: learning to build Kubernetes Operators in Go
 - Rust: fascinated by development efficiencies and guardrails provided the Rust compiler
 
-## Languages:
+## Tools/Languages:
 - Python: highest level of proficiency and have built multiple critical path applications using FastAPI, Typer, Flask, and Django.
 - Swift: built a MacOS desktop application to manage Imagr manifests.
+- Helm
+- Kubernetes
+- Terraform
+- Javascript
 
 # :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kylecrawshaw&theme=dark&background=000000)](https://git.io/streak-stats)
