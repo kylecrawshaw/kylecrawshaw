@@ -8,8 +8,15 @@
 <img src="https://komarev.com/ghpvc/?username=kylecrawshaw&style=flat-square&color=blue" alt=""/>
 
 ---
+# About
+😄 Pronouns: He/Him/His
+🔭 I’m currently working on highly scalable distributed systems in Kubernetes.
+🌱 I’m currently learning Rust and Go.
+👯 I’m looking to collaborate on any projects in the Kubernetes/CNCF landscape
+🤔 I’m looking for help with Rust and Go
+💬 Ask me about Python, Kubernetes, Helm, Terraform or anything in the DevOps world.
 
-# About:
+## Currently Working On:
 Currently working as the DevOps Lead at the Federal Reserve Bank of Boston on Project Hamilton. My work is focused on researching the infrastructure required to run a multi-region distributed CBDC. Built a fully automated testing system running in Kubernetes using ArgoCD, Argo Workflows, and custom API services spread across multiple clusters with hundreds of nodes.
 
 ## Currently Learning
@@ -30,18 +37,3 @@ Currently working as the DevOps Lead at the Federal Reserve Bank of Boston on Pr
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylecrawshaw&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylecrawshaw&show_icons=true&theme=radical)
-
-<!--
-**kylecrawshaw/kylecrawshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
