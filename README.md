@@ -9,7 +9,10 @@
 
 ---
 
-### :fire: My Stats :
+# About:
+Currently working at the Federal Reserve Bank of Boston on Project Hamilton. My work is focused on researching the infrastructure required to run a multi-region distributed CBDC.
+
+# :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kylecrawshaw&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylecrawshaw&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
