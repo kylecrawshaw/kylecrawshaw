@@ -9,12 +9,12 @@
 
 ---
 # About
-😄 Pronouns: He/Him/His
-🔭 I’m currently working on highly scalable distributed systems in Kubernetes.
-🌱 I’m currently learning Rust and Go.
-👯 I’m looking to collaborate on any projects in the Kubernetes/CNCF landscape
-🤔 I’m looking for help with Rust and Go
-💬 Ask me about Python, Kubernetes, Helm, Terraform or anything in the DevOps world.
+- 😄 Pronouns: He/Him/His
+- 🔭 I’m currently working on highly scalable distributed systems in Kubernetes.
+- 🌱 I’m currently learning Rust and Go.
+- 👯 I’m looking to collaborate on any projects in the Kubernetes/CNCF landscape
+- 🤔 I’m looking for help with Rust and Go
+- 💬 Ask me about Python, Kubernetes, Helm, Terraform or anything in the DevOps world.
 
 ## Currently Working On:
 Currently working as the DevOps Lead at the Federal Reserve Bank of Boston on Project Hamilton. My work is focused on researching the infrastructure required to run a multi-region distributed CBDC. Built a fully automated testing system running in Kubernetes using ArgoCD, Argo Workflows, and custom API services spread across multiple clusters with hundreds of nodes.
