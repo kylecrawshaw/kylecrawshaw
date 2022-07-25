@@ -10,7 +10,7 @@
 ---
 
 # About:
-Currently working at the Federal Reserve Bank of Boston on Project Hamilton. My work is focused on researching the infrastructure required to run a multi-region distributed CBDC.
+Currently working as the DevOps Lead at the Federal Reserve Bank of Boston on Project Hamilton. My work is focused on researching the infrastructure required to run a multi-region distributed CBDC. Built a fully automated testing system running in Kubernetes using ArgoCD, Argo Workflows, and custom API services spread across multiple clusters with hundreds of nodes.
 
 ## Currently Learning
 - Go: learning to build Kubernetes Operators in Go
